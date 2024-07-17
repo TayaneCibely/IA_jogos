@@ -1,4 +1,4 @@
-# IA_jogos
+# Agentes Autônomos
 Jogo desenvolvido utilizando conceitos de Inteligência Artificial, como agentes autônomos
 
 ## Requisitos
