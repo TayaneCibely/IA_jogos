@@ -34,5 +34,5 @@ Jogo desenvolvido utilizando conceitos de Inteligência Artificial, como agentes
 - Navegue até o diretório onde o arquivo "jogo_aspiradores.py" está localizado e execute:
 
 ```bash
-	python jogo_aspirador_v1.py
+	python jogo_aspiradores_v1.py
 ```
