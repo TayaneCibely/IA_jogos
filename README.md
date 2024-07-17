@@ -1,5 +1,5 @@
 # IA_jogos
-Jogo desenvolvido utilizando conceitos de inteligência, como agentes autônomos
+Jogo desenvolvido utilizando conceitos de Inteligência Artificial, como agentes autônomos
 
 ## Requisitos
  - Python 3.x
