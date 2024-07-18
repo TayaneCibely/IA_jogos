@@ -113,6 +113,7 @@ class AspiradorReativo(pygame.sprite.Sprite):
         if random.random() < 0.05 or self.should_change_direction():
             self.direction = self.choose_new_direction()
 
+	# Manter o aspirador dentro da tela
     def keep_within_bounds(self):
         if self.rect.right > screen_width:
             self.rect.right = screen_width
